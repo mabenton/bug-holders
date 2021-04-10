@@ -1,2 +1,2 @@
-# c2c-resume-maker
+# resume-maker
 A pretty basic resume maker.
