@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+body {
+  max-width: 1400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+:root {
+  --bg-black: #000000;
+  --font-family: "Raleway", sans-serif;
+}
+/*# sourceMappingURL=variables.css.map */
